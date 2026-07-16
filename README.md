@@ -20,14 +20,14 @@ The notebook is intentionally self-contained and organized as a step-by-step wal
 
 The notebook depends on:
 
-- Python 3.10+
+- Python 3.11+
 - `numpy`
 - `matplotlib`
 - `sentence-transformers`
 - `pylate`
 - `topk-sdk`
 
-Additionally, access to a running **TopK** instance (local or cloud) is required for indexing and retrieval.
+Additionally, you will need a TopK account and a valid **TopK API key**. These can be configured either through the notebook or via the `TOPK_API_KEY` environment variable. See the TopK documentation ([https://docs.topk.io/introduction]) for details.
 
 ## Running the Notebook
 
