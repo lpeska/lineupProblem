@@ -27,7 +27,7 @@ The notebook depends on:
 - `pylate`
 - `topk-sdk`
 
-Additionally, you will need a TopK account and a valid **TopK API key**. These can be configured either through the notebook or via the `TOPK_API_KEY` environment variable. See the TopK documentation ([https://docs.topk.io/introduction]) for details.
+Additionally, you will need a TopK account and a valid **TopK API key**. These can be configured either through the notebook or via the `TOPK_API_KEY` environment variable. See the TopK documentation [https://docs.topk.io/introduction] for details.
 
 ## Running the Notebook
 
